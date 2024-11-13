@@ -1,8 +1,9 @@
 # K Fetcher
-Tool that downloads videos from Kaltura. 
+Tool that loops through a cvs file of video links and downloads them.
 
 
 # Instructions 
 1. Download the `.exe`.
-2. Drag your `.csv` on top of the `.exe`.
+2. Option 1: Drag your `.csv` on top of the `.exe`. <br> 
+Option 2: Run `k_fetcher [file_path]`.
 3. Videos will download in the current folder. 
